@@ -1,0 +1,4 @@
+com\wk\simplerpc\service\IHelloService.class
+com\wk\simplerpc\impl\HelloServiceImpl.class
+com\wk\simplerpc\boot\RpcBootstrap.class
+com\wk\simplerpc\entity\User.class
