@@ -10,7 +10,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class HelloController {
     @RequestMapping("/hello")
-    public void hello(String name){
+    public String hello(String name){
         System.out.println("into controller..");
+        return "test";
     }
 }

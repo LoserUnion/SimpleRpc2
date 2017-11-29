@@ -1,2 +1,6 @@
-com\wk\simplerpc\controller\HelloController.class
+com\wk\simplerpc\servlet\SpittrWebAppInitializer.class
+com\wk\simplerpc\servlet\RootConfig.class
+com\wk\simplerpc\controller\HomeController.class
 com\wk\simplerpc\Main.class
+com\wk\simplerpc\servlet\WebConfig.class
+com\wk\simplerpc\controller\HelloController.class
