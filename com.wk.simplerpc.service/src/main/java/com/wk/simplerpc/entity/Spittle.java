@@ -55,4 +55,12 @@ public class Spittle {
         this.longitude = longitude;
     }
 
+    @Override
+    public String toString() {
+        return "id: " + id + "\n" +
+                "time:" + time.toString() + "\n"+
+                "message:" + message + "\n" +
+                "latitude:" + latitude + "\n" +
+                "longitude:" + longitude + "\n";
+    }
 }
